@@ -22,7 +22,8 @@ Use the output to update line 10
 
 Lastly type ``python3 Automate_doc_file.py``
 
-
+## Upcoming Version
+> The upcoming version of the project will include a web scraper that can extract more details from the job posting just by using the URL. Currently, the scraper works for LinkedIn and uses the Chat-GPT API to interact and create a word cloud, summarize the posting, and identify the most important skills in the posting. This feature will significantly improve the speed and make the end product more dynamic for each job posting.
 ## Contact
 
 > Discord: Gospel001
